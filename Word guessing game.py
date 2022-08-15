@@ -66,21 +66,3 @@ btn.config(fg="#660066")
 #mainloop
 
 win.mainloop()
-
-
-# امیرحسین ذاکری خو عزیز،
-
-# از انتخاب شما متشکریم،
-# حساب کاربری شما با موفقیت در سیستم ایجاد شد و با اولین ورودتان به کنترل پنل فعال می گردد.
-
-# چنانچه اولین ورود خود را طی 5 روز انجام ندهید، ثبت نام لغو و Email شما از سیستم حذف خواهد شد.
-
-# برای ورود به کنترل پنل، لطفاً به لینک ذیل مراجعه فرمائید. چنانچه امکان کلیک بر روی لینک را ندارید، لطفاً آن را کپی و در کاوشگر (Browser) خود وارد نمائید و توجه داشته باشید که تمام لینک کپی شده باشد.
-
-# کنترل پنل:  https://members.parsdata.com/default.aspx?dll=user&ctl=verification&cul=fa-IR&f=1&ver=signup&callback=&info=vmrEmt4cWYSFKs0gL7aJ2uYFwqo5I7wSuDt~pApklNNdyTcM0WGMN6EJCbjxqsuDvKLhhkzBZI3dlcEOmL4ccnaOCLkKI3DQp-skhPetSF10ce-q
-# شناسه کاربری (و پست الکترونیک اصلی):  defoja6187@leupus.com
-# کلمه عبور:  4Se_B-5zx8
-
-# یادآوری:
-
-# برای اطمینان بیشتر، لطفاً کلمه عبور خود را بعد از ورود به کنترل پنل تغییر دهید.
